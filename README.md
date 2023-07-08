@@ -1,3 +1,6 @@
+demu : https://somykoron.vercel.app/
+<img width="1436" alt="Untitled" src="https://github.com/mdhasib1/somykoron/assets/77572942/2cb73a3c-d8da-42ea-9171-3d2ff0a566da">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
